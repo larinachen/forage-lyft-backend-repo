@@ -31,12 +31,12 @@ Each engine/battery type has it's own evaluation criteria for when it needs to b
 Design requirements:
 
 The component must be **extensible** and **easy to modify**:
-* the criteria that governs whether an engine or battery needs service bawill change somewhat frequently in the future
+* the criteria that governs whether an engine or battery needs service will change somewhat frequently in the future
 * new car models will be added to the fleet in the future
-* new criteria - the system should also take tired into account in determining whether a car needs to be serviced
+* new criteria - the system should also take tire wear into account in determining whether a car needs to be serviced
 
 ## Navigating the repository:
-/doc - documentation including: software architecture design, design doc for new functionality, test coverage.
+/doc - documentation including design docs for the new software architecture and the new functionality.
 
 
 ## Credit
